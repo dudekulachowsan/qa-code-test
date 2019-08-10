@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f0dffb0e-b297-4992-ae16-e6aee5e16e6a" name="Default Changelist" comment="" />
+    <list default="true" id="f0dffb0e-b297-4992-ae16-e6aee5e16e6a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TestScriptRunners/TestRunner_ShoppingCart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestScriptRunners/TestRunner_ShoppingCart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -12,6 +16,15 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="67">
+              <caret line="21" column="36" selection-start-line="21" selection-start-column="36" selection-end-line="21" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/pageobjects/SearchResultsListingPage.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -82,7 +95,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/pageobjects/ShoppingCartPage.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="213">
@@ -111,18 +124,6 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/stepdefinitions/hooks.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="675">
-              <caret line="25" column="23" selection-start-line="25" selection-start-column="23" selection-end-line="25" selection-end-column="23" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/utilities/BasePage.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="322">
@@ -138,11 +139,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/TestScriptRunners/TestRunner_ShoppingCart.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="6" column="30" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
+            <state relative-caret-position="270">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -164,6 +165,9 @@
       <dir>C:\Chowsan\SeleniumFrameworks\woolworthcodetest\src\test\java\stepdefinitions</dir>
     </dirStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -171,7 +175,6 @@
         <option value="$PROJECT_DIR$/src/test/java/TestScriptRunners/shoppingcart_runner.java" />
         <option value="$PROJECT_DIR$/src/test/java/stepdefinitions/search_items_steps.java" />
         <option value="$PROJECT_DIR$/src/test/resources/features/search_items.feature" />
-        <option value="$PROJECT_DIR$/src/test/java/TestScriptRunners/TestRunner_ShoppingCart.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/java/utilities/BaseTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/pageobjects/BooksPage.java" />
@@ -186,6 +189,7 @@
         <option value="$PROJECT_DIR$/src/test/java/pageobjects/ShoppingCartPage.java" />
         <option value="$PROJECT_DIR$/src/test/java/stepdefinitions/search_results_steps.java" />
         <option value="$PROJECT_DIR$/src/test/java/stepdefinitions/shopping_cart_steps.java" />
+        <option value="$PROJECT_DIR$/src/test/java/TestScriptRunners/TestRunner_ShoppingCart.java" />
       </list>
     </option>
   </component>
@@ -223,6 +227,7 @@
     <option name="width" value="1938" />
     <option name="height" value="1064" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -237,6 +242,31 @@
               <item name="woolworthcodetest" type="b2602c69:ProjectViewProjectNode" />
               <item name="woolworthcodetest" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="woolworthcodetest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="woolworthcodetest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="woolworthcodetest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="woolworthcodetest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="woolworthcodetest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="woolworthcodetest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="woolworthcodetest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="woolworthcodetest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -244,7 +274,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1565440243039" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1565443009586" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
@@ -317,9 +347,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TestRunner_ShoppingCart - 2019.08.10 at 21h 34m 29s.xml">
-      <configuration name="TestRunner_ShoppingCart" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="TestRunner_ShoppingCart - 2019.08.10 at 21h 38m 45s.xml">
       <configuration name="TestRunner_ShoppingCart" configurationId="JUnit" />
     </history-entry>
@@ -347,11 +374,14 @@
     <history-entry file="TestRunner_ShoppingCart - 2019.08.10 at 22h 28m 25s.xml">
       <configuration name="TestRunner_ShoppingCart" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="TestRunner_ShoppingCart - 2019.08.10 at 23h 06m 26s.xml">
+      <configuration name="TestRunner_ShoppingCart" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1064" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26154673" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26154673" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -360,7 +390,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.34705228" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.34705228" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -412,13 +442,6 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/utilities/BaseTest.java" />
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/stepdefinitions/items_added_cart_steps.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -462,23 +485,6 @@
             <element signature="e#463#464#0" expanded="true" />
             <element signature="e#522#523#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/TestScriptRunners/TestRunner_ShoppingCart.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="6" column="30" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/resources/features/shopping_cart.feature">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
         </state>
       </provider>
     </entry>
@@ -555,6 +561,30 @@
             <element signature="e#482#483#0" expanded="true" />
             <element signature="e#866#867#0" expanded="true" />
             <element signature="e#890#891#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="67">
+          <caret line="21" column="36" selection-start-line="21" selection-start-column="36" selection-end-line="21" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/features/shopping_cart.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/TestScriptRunners/TestRunner_ShoppingCart.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>

@@ -4,7 +4,7 @@ import cucumber.api.CucumberOptions;
 import cucumber.api.junit.Cucumber;
 
 @RunWith(Cucumber.class)
-@CucumberOptions(features="src/test/resources/features", glue="")
+@CucumberOptions(plugin = {"pretty", "html:target/cucumber"},features="src/test/resources/features", glue="stepdefinitions")
 public class TestRunner_ShoppingCart {
 
 }
